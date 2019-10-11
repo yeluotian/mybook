@@ -1,2 +1,2 @@
-# mybook
-gitbook
+# Initial page
+
